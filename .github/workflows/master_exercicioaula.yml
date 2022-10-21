@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'ExercicioAula'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_635FF3631F08496CBB486BEA0EBBCA59 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FE73683FF2E0436B86FFCEE79F55D2E2 }}
           package: .
